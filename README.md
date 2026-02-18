@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Student in AMC Engineering College<br>Looking for intership oppurtunities in Backend Development<br>I'm looking to collaborate on Machine Learning<br>I'm looking for help with Building End to end Machine Learning models<br>I'm currently Learning DSA with C++
+I'm currently a Student in AMC Engineering College<br>Looking for intership oppurtunities in Backend Development<br>I'm looking to collaborate on Machine Learning<br>I'm looking for help with Building End to end Machine Learning models<br>I'm currently Learning DSA with C++<br>I use "Arch Linux" BTW
 
 
 ## 🌐 Socials:
